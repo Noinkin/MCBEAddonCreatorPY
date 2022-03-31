@@ -1,3 +1,3 @@
 #Compile stuff
-from .src.compiler.compile import compile
+from .compiler.compile import compile
 
